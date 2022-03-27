@@ -22,3 +22,4 @@ do      echo -n "$a "
         a=$bn
         b=$fn
 done
+endfor
